@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-dsqrt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Compute the principal square root for each element in a double-precision floating-point strided array.",
   "license": "Apache-2.0",
   "author": {
